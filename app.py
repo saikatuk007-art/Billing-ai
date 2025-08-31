@@ -1,17 +1,35 @@
 import streamlit as st
 import pandas as pd
+import matplotlib.pyplot as plt
+from datetime import datetime
 
 # Load billing data
 billing = pd.read_csv('billing_data.csv')
-
-# Load complaint data
 complaints = pd.read_csv('complaints.csv')
 
-# Clean Customer_ID fields to ensure proper merging
+# Clean Customer_ID fields
 billing['Customer_ID'] = billing['Customer_ID'].astype(str).str.strip()
 complaints['Customer_ID'] = complaints['Customer_ID'].astype(str).str.strip()
 
-# Display title
+# Categorize complaints by topic
+def categorize(text):
+    text = str(text).lower()
+    if "roaming" in text:
+        return "Roaming Issue"
+    elif "discount" in text:
+        return "Discount Missing"
+    elif "tax" in text:
+        return "Tax Dispute"
+    else:
+        return "Other"
+
+complaints['Category'] = complaints['Complaint_Text'].apply(categorize)
+
+# Add timestamp if missing
+if 'Timestamp' not in complaints.columns:
+    complaints['Timestamp'] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+# Title
 st.title("📡 BillGuard AI Dashboard")
 
 # Section 1: Billing Anomalies
@@ -19,7 +37,7 @@ st.header("🔍 Billing Anomalies")
 
 if 'anomaly' not in billing.columns:
     st.warning("Anomaly column missing. Please run anomaly detection first.")
-    anomalies = pd.DataFrame()  # Empty placeholder
+    anomalies = pd.DataFrame()
     filtered_anomalies = anomalies
 else:
     anomalies = billing[billing['anomaly'] == -1]
@@ -34,6 +52,18 @@ else:
         filtered_anomalies = anomalies
 
     st.dataframe(filtered_anomalies)
+
+    # KPI Metrics
+    st.metric("Total Anomalies", len(filtered_anomalies))
+
+    # Bar chart
+    st.subheader("📊 Anomalies by Plan Type")
+    plan_counts = filtered_anomalies['Plan_Type'].value_counts()
+    fig, ax = plt.subplots()
+    ax.bar(plan_counts.index, plan_counts.values, color='tomato')
+    ax.set_xlabel("Plan Type")
+    ax.set_ylabel("Count")
+    st.pyplot(fig)
 
 # Section 2: Complaint Sentiment
 st.header("💬 Complaint Sentiment Analysis")
@@ -51,18 +81,5 @@ else:
     else:
         filtered_complaints = complaints
 
-    st.dataframe(filtered_complaints[['Complaint_ID', 'Customer_ID', 'Complaint_Text', 'Sentiment']])
+    st.metric("Negative Complaints", len(filtered_complaints[filtered_complaints['Sentiment'] == 'NEGATIVE']))
 
-# Section 3: Cross-reference
-st.header("🔗 Cross-Reference: Anomalies & Complaints")
-
-if not filtered_anomalies.empty:
-    merged = pd.merge(filtered_anomalies, filtered_complaints, on='Customer_ID', how='left')
-
-    expected_columns = ['Customer_ID', 'Plan_Type', 'Final_Bill', 'Complaint_Text', 'Sentiment']
-    available_columns = [col for col in expected_columns if col in merged.columns]
-
-    st.subheader("🔗 Filtered Cross-Reference")
-    st.dataframe(merged[available_columns])
-else:
-    st.info("No anomalies detected or anomaly detection not yet run.")
