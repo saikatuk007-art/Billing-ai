@@ -1,6 +1,1001 @@
 Complaint_ID,Customer_ID,Complaint_Text,Sentiment
-CMP001,C002,I was charged extra for roaming.,POSITIVE
-CMP002,C005,My discount wasn’t applied.,NEGATIVE
-CMP003,C007,The bill is way higher than expected.,POSITIVE
-CMP004,C003,Tax seems incorrect.,NEGATIVE
-CMP005,C001,Everything looks fine.,POSITIVE
+CMP0001,C0001,Thanks for resolving my last issue.,POSITIVE
+CMP0002,C0002,Everything looks fine.,POSITIVE
+CMP0003,C0003,My discount wasn’t applied.,NEGATIVE
+CMP0004,C0004,Tax seems incorrect.,NEGATIVE
+CMP0005,C0005,Tax seems incorrect.,NEGATIVE
+CMP0006,C0006,Thanks for resolving my last issue.,POSITIVE
+CMP0007,C0007,Tax seems incorrect.,NEGATIVE
+CMP0008,C0008,I was charged extra for roaming.,NEGATIVE
+CMP0009,C0009,The bill is way higher than expected.,NEGATIVE
+CMP0010,C0010,"Great service, no issues with billing.",POSITIVE
+CMP0011,C0011,"Great service, no issues with billing.",POSITIVE
+CMP0012,C0012,I was charged extra for roaming.,NEGATIVE
+CMP0013,C0013,I need help understanding my bill.,NEGATIVE
+CMP0014,C0014,I was charged extra for roaming.,NEGATIVE
+CMP0015,C0015,Charges match my usage perfectly.,POSITIVE
+CMP0016,C0016,Charges match my usage perfectly.,POSITIVE
+CMP0017,C0017,Tax seems incorrect.,NEGATIVE
+CMP0018,C0018,I was charged extra for roaming.,NEGATIVE
+CMP0019,C0019,Tax seems incorrect.,NEGATIVE
+CMP0020,C0020,Tax seems incorrect.,NEGATIVE
+CMP0021,C0021,My discount wasn’t applied.,NEGATIVE
+CMP0022,C0022,Thanks for resolving my last issue.,POSITIVE
+CMP0023,C0023,Thanks for resolving my last issue.,POSITIVE
+CMP0024,C0024,Why was I billed for unused data?,NEGATIVE
+CMP0025,C0025,Why was I billed for unused data?,NEGATIVE
+CMP0026,C0026,Thanks for resolving my last issue.,POSITIVE
+CMP0027,C0027,I need help understanding my bill.,NEGATIVE
+CMP0028,C0028,Tax seems incorrect.,NEGATIVE
+CMP0029,C0029,Why was I billed for unused data?,NEGATIVE
+CMP0030,C0030,Why was I billed for unused data?,NEGATIVE
+CMP0031,C0031,My discount wasn’t applied.,NEGATIVE
+CMP0032,C0032,Everything looks fine.,POSITIVE
+CMP0033,C0033,I was charged extra for roaming.,NEGATIVE
+CMP0034,C0034,Thanks for resolving my last issue.,POSITIVE
+CMP0035,C0035,Why was I billed for unused data?,NEGATIVE
+CMP0036,C0036,Why was I billed for unused data?,NEGATIVE
+CMP0037,C0037,Tax seems incorrect.,NEGATIVE
+CMP0038,C0038,I need help understanding my bill.,NEGATIVE
+CMP0039,C0039,"Great service, no issues with billing.",POSITIVE
+CMP0040,C0040,Why was I billed for unused data?,NEGATIVE
+CMP0041,C0041,I need help understanding my bill.,NEGATIVE
+CMP0042,C0042,My discount wasn’t applied.,NEGATIVE
+CMP0043,C0043,The bill is way higher than expected.,NEGATIVE
+CMP0044,C0044,Everything looks fine.,POSITIVE
+CMP0045,C0045,Everything looks fine.,POSITIVE
+CMP0046,C0046,Why was I billed for unused data?,NEGATIVE
+CMP0047,C0047,Thanks for resolving my last issue.,POSITIVE
+CMP0048,C0048,Thanks for resolving my last issue.,POSITIVE
+CMP0049,C0049,Charges match my usage perfectly.,POSITIVE
+CMP0050,C0050,Charges match my usage perfectly.,POSITIVE
+CMP0051,C0051,Charges match my usage perfectly.,POSITIVE
+CMP0052,C0052,Charges match my usage perfectly.,POSITIVE
+CMP0053,C0053,"Great service, no issues with billing.",POSITIVE
+CMP0054,C0054,Tax seems incorrect.,NEGATIVE
+CMP0055,C0055,The bill is way higher than expected.,NEGATIVE
+CMP0056,C0056,The bill is way higher than expected.,NEGATIVE
+CMP0057,C0057,Everything looks fine.,POSITIVE
+CMP0058,C0058,Why was I billed for unused data?,NEGATIVE
+CMP0059,C0059,Charges match my usage perfectly.,POSITIVE
+CMP0060,C0060,Everything looks fine.,POSITIVE
+CMP0061,C0061,Tax seems incorrect.,NEGATIVE
+CMP0062,C0062,The bill is way higher than expected.,NEGATIVE
+CMP0063,C0063,The bill is way higher than expected.,NEGATIVE
+CMP0064,C0064,"Great service, no issues with billing.",POSITIVE
+CMP0065,C0065,Tax seems incorrect.,NEGATIVE
+CMP0066,C0066,Thanks for resolving my last issue.,POSITIVE
+CMP0067,C0067,The bill is way higher than expected.,NEGATIVE
+CMP0068,C0068,The bill is way higher than expected.,NEGATIVE
+CMP0069,C0069,I was charged extra for roaming.,NEGATIVE
+CMP0070,C0070,Charges match my usage perfectly.,POSITIVE
+CMP0071,C0071,I need help understanding my bill.,NEGATIVE
+CMP0072,C0072,Charges match my usage perfectly.,POSITIVE
+CMP0073,C0073,Tax seems incorrect.,NEGATIVE
+CMP0074,C0074,Why was I billed for unused data?,NEGATIVE
+CMP0075,C0075,Everything looks fine.,POSITIVE
+CMP0076,C0076,I need help understanding my bill.,NEGATIVE
+CMP0077,C0077,The bill is way higher than expected.,NEGATIVE
+CMP0078,C0078,Everything looks fine.,POSITIVE
+CMP0079,C0079,Charges match my usage perfectly.,POSITIVE
+CMP0080,C0080,Tax seems incorrect.,NEGATIVE
+CMP0081,C0081,Why was I billed for unused data?,NEGATIVE
+CMP0082,C0082,The bill is way higher than expected.,NEGATIVE
+CMP0083,C0083,Charges match my usage perfectly.,POSITIVE
+CMP0084,C0084,"Great service, no issues with billing.",POSITIVE
+CMP0085,C0085,"Great service, no issues with billing.",POSITIVE
+CMP0086,C0086,My discount wasn’t applied.,NEGATIVE
+CMP0087,C0087,I was charged extra for roaming.,NEGATIVE
+CMP0088,C0088,I was charged extra for roaming.,NEGATIVE
+CMP0089,C0089,Tax seems incorrect.,NEGATIVE
+CMP0090,C0090,Thanks for resolving my last issue.,POSITIVE
+CMP0091,C0091,Charges match my usage perfectly.,POSITIVE
+CMP0092,C0092,I was charged extra for roaming.,NEGATIVE
+CMP0093,C0093,I need help understanding my bill.,NEGATIVE
+CMP0094,C0094,Thanks for resolving my last issue.,POSITIVE
+CMP0095,C0095,I was charged extra for roaming.,NEGATIVE
+CMP0096,C0096,Why was I billed for unused data?,NEGATIVE
+CMP0097,C0097,Everything looks fine.,POSITIVE
+CMP0098,C0098,My discount wasn’t applied.,NEGATIVE
+CMP0099,C0099,Tax seems incorrect.,NEGATIVE
+CMP0100,C0100,Everything looks fine.,POSITIVE
+CMP0101,C0101,Charges match my usage perfectly.,POSITIVE
+CMP0102,C0102,Thanks for resolving my last issue.,POSITIVE
+CMP0103,C0103,"Great service, no issues with billing.",POSITIVE
+CMP0104,C0104,Tax seems incorrect.,NEGATIVE
+CMP0105,C0105,Why was I billed for unused data?,NEGATIVE
+CMP0106,C0106,I need help understanding my bill.,NEGATIVE
+CMP0107,C0107,The bill is way higher than expected.,NEGATIVE
+CMP0108,C0108,"Great service, no issues with billing.",POSITIVE
+CMP0109,C0109,Tax seems incorrect.,NEGATIVE
+CMP0110,C0110,Everything looks fine.,POSITIVE
+CMP0111,C0111,Everything looks fine.,POSITIVE
+CMP0112,C0112,Why was I billed for unused data?,NEGATIVE
+CMP0113,C0113,Tax seems incorrect.,NEGATIVE
+CMP0114,C0114,Everything looks fine.,POSITIVE
+CMP0115,C0115,"Great service, no issues with billing.",POSITIVE
+CMP0116,C0116,Thanks for resolving my last issue.,POSITIVE
+CMP0117,C0117,My discount wasn’t applied.,NEGATIVE
+CMP0118,C0118,Tax seems incorrect.,NEGATIVE
+CMP0119,C0119,Tax seems incorrect.,NEGATIVE
+CMP0120,C0120,I was charged extra for roaming.,NEGATIVE
+CMP0121,C0121,I was charged extra for roaming.,NEGATIVE
+CMP0122,C0122,Tax seems incorrect.,NEGATIVE
+CMP0123,C0123,Why was I billed for unused data?,NEGATIVE
+CMP0124,C0124,I was charged extra for roaming.,NEGATIVE
+CMP0125,C0125,I was charged extra for roaming.,NEGATIVE
+CMP0126,C0126,Everything looks fine.,POSITIVE
+CMP0127,C0127,Why was I billed for unused data?,NEGATIVE
+CMP0128,C0128,My discount wasn’t applied.,NEGATIVE
+CMP0129,C0129,Everything looks fine.,POSITIVE
+CMP0130,C0130,Charges match my usage perfectly.,POSITIVE
+CMP0131,C0131,My discount wasn’t applied.,NEGATIVE
+CMP0132,C0132,Thanks for resolving my last issue.,POSITIVE
+CMP0133,C0133,"Great service, no issues with billing.",POSITIVE
+CMP0134,C0134,"Great service, no issues with billing.",POSITIVE
+CMP0135,C0135,Charges match my usage perfectly.,POSITIVE
+CMP0136,C0136,The bill is way higher than expected.,NEGATIVE
+CMP0137,C0137,My discount wasn’t applied.,NEGATIVE
+CMP0138,C0138,Tax seems incorrect.,NEGATIVE
+CMP0139,C0139,Everything looks fine.,POSITIVE
+CMP0140,C0140,My discount wasn’t applied.,NEGATIVE
+CMP0141,C0141,Thanks for resolving my last issue.,POSITIVE
+CMP0142,C0142,My discount wasn’t applied.,NEGATIVE
+CMP0143,C0143,Tax seems incorrect.,NEGATIVE
+CMP0144,C0144,I need help understanding my bill.,NEGATIVE
+CMP0145,C0145,My discount wasn’t applied.,NEGATIVE
+CMP0146,C0146,I was charged extra for roaming.,NEGATIVE
+CMP0147,C0147,I was charged extra for roaming.,NEGATIVE
+CMP0148,C0148,Charges match my usage perfectly.,POSITIVE
+CMP0149,C0149,I need help understanding my bill.,NEGATIVE
+CMP0150,C0150,My discount wasn’t applied.,NEGATIVE
+CMP0151,C0151,The bill is way higher than expected.,NEGATIVE
+CMP0152,C0152,The bill is way higher than expected.,NEGATIVE
+CMP0153,C0153,Thanks for resolving my last issue.,POSITIVE
+CMP0154,C0154,Tax seems incorrect.,NEGATIVE
+CMP0155,C0155,Charges match my usage perfectly.,POSITIVE
+CMP0156,C0156,Why was I billed for unused data?,NEGATIVE
+CMP0157,C0157,Why was I billed for unused data?,NEGATIVE
+CMP0158,C0158,The bill is way higher than expected.,NEGATIVE
+CMP0159,C0159,My discount wasn’t applied.,NEGATIVE
+CMP0160,C0160,I need help understanding my bill.,NEGATIVE
+CMP0161,C0161,Charges match my usage perfectly.,POSITIVE
+CMP0162,C0162,Tax seems incorrect.,NEGATIVE
+CMP0163,C0163,My discount wasn’t applied.,NEGATIVE
+CMP0164,C0164,I need help understanding my bill.,NEGATIVE
+CMP0165,C0165,Why was I billed for unused data?,NEGATIVE
+CMP0166,C0166,Charges match my usage perfectly.,POSITIVE
+CMP0167,C0167,Charges match my usage perfectly.,POSITIVE
+CMP0168,C0168,Why was I billed for unused data?,NEGATIVE
+CMP0169,C0169,I need help understanding my bill.,NEGATIVE
+CMP0170,C0170,Tax seems incorrect.,NEGATIVE
+CMP0171,C0171,Everything looks fine.,POSITIVE
+CMP0172,C0172,Charges match my usage perfectly.,POSITIVE
+CMP0173,C0173,Charges match my usage perfectly.,POSITIVE
+CMP0174,C0174,I was charged extra for roaming.,NEGATIVE
+CMP0175,C0175,My discount wasn’t applied.,NEGATIVE
+CMP0176,C0176,Thanks for resolving my last issue.,POSITIVE
+CMP0177,C0177,The bill is way higher than expected.,NEGATIVE
+CMP0178,C0178,Charges match my usage perfectly.,POSITIVE
+CMP0179,C0179,I was charged extra for roaming.,NEGATIVE
+CMP0180,C0180,My discount wasn’t applied.,NEGATIVE
+CMP0181,C0181,"Great service, no issues with billing.",POSITIVE
+CMP0182,C0182,I was charged extra for roaming.,NEGATIVE
+CMP0183,C0183,Why was I billed for unused data?,NEGATIVE
+CMP0184,C0184,The bill is way higher than expected.,NEGATIVE
+CMP0185,C0185,I was charged extra for roaming.,NEGATIVE
+CMP0186,C0186,Everything looks fine.,POSITIVE
+CMP0187,C0187,Everything looks fine.,POSITIVE
+CMP0188,C0188,Everything looks fine.,POSITIVE
+CMP0189,C0189,Why was I billed for unused data?,NEGATIVE
+CMP0190,C0190,"Great service, no issues with billing.",POSITIVE
+CMP0191,C0191,Why was I billed for unused data?,NEGATIVE
+CMP0192,C0192,Thanks for resolving my last issue.,POSITIVE
+CMP0193,C0193,My discount wasn’t applied.,NEGATIVE
+CMP0194,C0194,Tax seems incorrect.,NEGATIVE
+CMP0195,C0195,"Great service, no issues with billing.",POSITIVE
+CMP0196,C0196,The bill is way higher than expected.,NEGATIVE
+CMP0197,C0197,Tax seems incorrect.,NEGATIVE
+CMP0198,C0198,Why was I billed for unused data?,NEGATIVE
+CMP0199,C0199,My discount wasn’t applied.,NEGATIVE
+CMP0200,C0200,The bill is way higher than expected.,NEGATIVE
+CMP0201,C0201,Tax seems incorrect.,NEGATIVE
+CMP0202,C0202,Thanks for resolving my last issue.,POSITIVE
+CMP0203,C0203,Thanks for resolving my last issue.,POSITIVE
+CMP0204,C0204,Thanks for resolving my last issue.,POSITIVE
+CMP0205,C0205,Charges match my usage perfectly.,POSITIVE
+CMP0206,C0206,The bill is way higher than expected.,NEGATIVE
+CMP0207,C0207,My discount wasn’t applied.,NEGATIVE
+CMP0208,C0208,"Great service, no issues with billing.",POSITIVE
+CMP0209,C0209,"Great service, no issues with billing.",POSITIVE
+CMP0210,C0210,Thanks for resolving my last issue.,POSITIVE
+CMP0211,C0211,Thanks for resolving my last issue.,POSITIVE
+CMP0212,C0212,I need help understanding my bill.,NEGATIVE
+CMP0213,C0213,Everything looks fine.,POSITIVE
+CMP0214,C0214,Everything looks fine.,POSITIVE
+CMP0215,C0215,I was charged extra for roaming.,NEGATIVE
+CMP0216,C0216,Charges match my usage perfectly.,POSITIVE
+CMP0217,C0217,"Great service, no issues with billing.",POSITIVE
+CMP0218,C0218,I need help understanding my bill.,NEGATIVE
+CMP0219,C0219,Thanks for resolving my last issue.,POSITIVE
+CMP0220,C0220,"Great service, no issues with billing.",POSITIVE
+CMP0221,C0221,Thanks for resolving my last issue.,POSITIVE
+CMP0222,C0222,"Great service, no issues with billing.",POSITIVE
+CMP0223,C0223,My discount wasn’t applied.,NEGATIVE
+CMP0224,C0224,I need help understanding my bill.,NEGATIVE
+CMP0225,C0225,Everything looks fine.,POSITIVE
+CMP0226,C0226,The bill is way higher than expected.,NEGATIVE
+CMP0227,C0227,Thanks for resolving my last issue.,POSITIVE
+CMP0228,C0228,Why was I billed for unused data?,NEGATIVE
+CMP0229,C0229,Thanks for resolving my last issue.,POSITIVE
+CMP0230,C0230,"Great service, no issues with billing.",POSITIVE
+CMP0231,C0231,The bill is way higher than expected.,NEGATIVE
+CMP0232,C0232,Why was I billed for unused data?,NEGATIVE
+CMP0233,C0233,Everything looks fine.,POSITIVE
+CMP0234,C0234,I need help understanding my bill.,NEGATIVE
+CMP0235,C0235,"Great service, no issues with billing.",POSITIVE
+CMP0236,C0236,"Great service, no issues with billing.",POSITIVE
+CMP0237,C0237,Tax seems incorrect.,NEGATIVE
+CMP0238,C0238,Why was I billed for unused data?,NEGATIVE
+CMP0239,C0239,Charges match my usage perfectly.,POSITIVE
+CMP0240,C0240,I was charged extra for roaming.,NEGATIVE
+CMP0241,C0241,Why was I billed for unused data?,NEGATIVE
+CMP0242,C0242,Charges match my usage perfectly.,POSITIVE
+CMP0243,C0243,Tax seems incorrect.,NEGATIVE
+CMP0244,C0244,Tax seems incorrect.,NEGATIVE
+CMP0245,C0245,I need help understanding my bill.,NEGATIVE
+CMP0246,C0246,Tax seems incorrect.,NEGATIVE
+CMP0247,C0247,"Great service, no issues with billing.",POSITIVE
+CMP0248,C0248,Tax seems incorrect.,NEGATIVE
+CMP0249,C0249,My discount wasn’t applied.,NEGATIVE
+CMP0250,C0250,Tax seems incorrect.,NEGATIVE
+CMP0251,C0251,Charges match my usage perfectly.,POSITIVE
+CMP0252,C0252,The bill is way higher than expected.,NEGATIVE
+CMP0253,C0253,My discount wasn’t applied.,NEGATIVE
+CMP0254,C0254,I need help understanding my bill.,NEGATIVE
+CMP0255,C0255,I need help understanding my bill.,NEGATIVE
+CMP0256,C0256,"Great service, no issues with billing.",POSITIVE
+CMP0257,C0257,I was charged extra for roaming.,NEGATIVE
+CMP0258,C0258,Why was I billed for unused data?,NEGATIVE
+CMP0259,C0259,"Great service, no issues with billing.",POSITIVE
+CMP0260,C0260,Tax seems incorrect.,NEGATIVE
+CMP0261,C0261,Tax seems incorrect.,NEGATIVE
+CMP0262,C0262,Everything looks fine.,POSITIVE
+CMP0263,C0263,"Great service, no issues with billing.",POSITIVE
+CMP0264,C0264,Tax seems incorrect.,NEGATIVE
+CMP0265,C0265,The bill is way higher than expected.,NEGATIVE
+CMP0266,C0266,I need help understanding my bill.,NEGATIVE
+CMP0267,C0267,The bill is way higher than expected.,NEGATIVE
+CMP0268,C0268,Charges match my usage perfectly.,POSITIVE
+CMP0269,C0269,Thanks for resolving my last issue.,POSITIVE
+CMP0270,C0270,Tax seems incorrect.,NEGATIVE
+CMP0271,C0271,"Great service, no issues with billing.",POSITIVE
+CMP0272,C0272,Thanks for resolving my last issue.,POSITIVE
+CMP0273,C0273,I need help understanding my bill.,NEGATIVE
+CMP0274,C0274,Thanks for resolving my last issue.,POSITIVE
+CMP0275,C0275,Everything looks fine.,POSITIVE
+CMP0276,C0276,The bill is way higher than expected.,NEGATIVE
+CMP0277,C0277,Charges match my usage perfectly.,POSITIVE
+CMP0278,C0278,Everything looks fine.,POSITIVE
+CMP0279,C0279,I was charged extra for roaming.,NEGATIVE
+CMP0280,C0280,Charges match my usage perfectly.,POSITIVE
+CMP0281,C0281,My discount wasn’t applied.,NEGATIVE
+CMP0282,C0282,Why was I billed for unused data?,NEGATIVE
+CMP0283,C0283,"Great service, no issues with billing.",POSITIVE
+CMP0284,C0284,Everything looks fine.,POSITIVE
+CMP0285,C0285,Everything looks fine.,POSITIVE
+CMP0286,C0286,I need help understanding my bill.,NEGATIVE
+CMP0287,C0287,Everything looks fine.,POSITIVE
+CMP0288,C0288,I was charged extra for roaming.,NEGATIVE
+CMP0289,C0289,"Great service, no issues with billing.",POSITIVE
+CMP0290,C0290,Thanks for resolving my last issue.,POSITIVE
+CMP0291,C0291,The bill is way higher than expected.,NEGATIVE
+CMP0292,C0292,The bill is way higher than expected.,NEGATIVE
+CMP0293,C0293,The bill is way higher than expected.,NEGATIVE
+CMP0294,C0294,I need help understanding my bill.,NEGATIVE
+CMP0295,C0295,Thanks for resolving my last issue.,POSITIVE
+CMP0296,C0296,I need help understanding my bill.,NEGATIVE
+CMP0297,C0297,I was charged extra for roaming.,NEGATIVE
+CMP0298,C0298,Everything looks fine.,POSITIVE
+CMP0299,C0299,Charges match my usage perfectly.,POSITIVE
+CMP0300,C0300,Everything looks fine.,POSITIVE
+CMP0301,C0301,I was charged extra for roaming.,NEGATIVE
+CMP0302,C0302,I was charged extra for roaming.,NEGATIVE
+CMP0303,C0303,The bill is way higher than expected.,NEGATIVE
+CMP0304,C0304,Charges match my usage perfectly.,POSITIVE
+CMP0305,C0305,"Great service, no issues with billing.",POSITIVE
+CMP0306,C0306,I need help understanding my bill.,NEGATIVE
+CMP0307,C0307,I need help understanding my bill.,NEGATIVE
+CMP0308,C0308,The bill is way higher than expected.,NEGATIVE
+CMP0309,C0309,Why was I billed for unused data?,NEGATIVE
+CMP0310,C0310,Thanks for resolving my last issue.,POSITIVE
+CMP0311,C0311,I was charged extra for roaming.,NEGATIVE
+CMP0312,C0312,Tax seems incorrect.,NEGATIVE
+CMP0313,C0313,Thanks for resolving my last issue.,POSITIVE
+CMP0314,C0314,Tax seems incorrect.,NEGATIVE
+CMP0315,C0315,I was charged extra for roaming.,NEGATIVE
+CMP0316,C0316,Why was I billed for unused data?,NEGATIVE
+CMP0317,C0317,Thanks for resolving my last issue.,POSITIVE
+CMP0318,C0318,Tax seems incorrect.,NEGATIVE
+CMP0319,C0319,Tax seems incorrect.,NEGATIVE
+CMP0320,C0320,Charges match my usage perfectly.,POSITIVE
+CMP0321,C0321,Tax seems incorrect.,NEGATIVE
+CMP0322,C0322,Everything looks fine.,POSITIVE
+CMP0323,C0323,"Great service, no issues with billing.",POSITIVE
+CMP0324,C0324,Why was I billed for unused data?,NEGATIVE
+CMP0325,C0325,Everything looks fine.,POSITIVE
+CMP0326,C0326,I need help understanding my bill.,NEGATIVE
+CMP0327,C0327,"Great service, no issues with billing.",POSITIVE
+CMP0328,C0328,I was charged extra for roaming.,NEGATIVE
+CMP0329,C0329,Tax seems incorrect.,NEGATIVE
+CMP0330,C0330,Thanks for resolving my last issue.,POSITIVE
+CMP0331,C0331,I was charged extra for roaming.,NEGATIVE
+CMP0332,C0332,Everything looks fine.,POSITIVE
+CMP0333,C0333,I was charged extra for roaming.,NEGATIVE
+CMP0334,C0334,Everything looks fine.,POSITIVE
+CMP0335,C0335,Charges match my usage perfectly.,POSITIVE
+CMP0336,C0336,Charges match my usage perfectly.,POSITIVE
+CMP0337,C0337,"Great service, no issues with billing.",POSITIVE
+CMP0338,C0338,I need help understanding my bill.,NEGATIVE
+CMP0339,C0339,Charges match my usage perfectly.,POSITIVE
+CMP0340,C0340,Why was I billed for unused data?,NEGATIVE
+CMP0341,C0341,Thanks for resolving my last issue.,POSITIVE
+CMP0342,C0342,Charges match my usage perfectly.,POSITIVE
+CMP0343,C0343,The bill is way higher than expected.,NEGATIVE
+CMP0344,C0344,Charges match my usage perfectly.,POSITIVE
+CMP0345,C0345,Why was I billed for unused data?,NEGATIVE
+CMP0346,C0346,Why was I billed for unused data?,NEGATIVE
+CMP0347,C0347,Tax seems incorrect.,NEGATIVE
+CMP0348,C0348,Everything looks fine.,POSITIVE
+CMP0349,C0349,"Great service, no issues with billing.",POSITIVE
+CMP0350,C0350,"Great service, no issues with billing.",POSITIVE
+CMP0351,C0351,I need help understanding my bill.,NEGATIVE
+CMP0352,C0352,I was charged extra for roaming.,NEGATIVE
+CMP0353,C0353,The bill is way higher than expected.,NEGATIVE
+CMP0354,C0354,My discount wasn’t applied.,NEGATIVE
+CMP0355,C0355,Charges match my usage perfectly.,POSITIVE
+CMP0356,C0356,Why was I billed for unused data?,NEGATIVE
+CMP0357,C0357,My discount wasn’t applied.,NEGATIVE
+CMP0358,C0358,I need help understanding my bill.,NEGATIVE
+CMP0359,C0359,Everything looks fine.,POSITIVE
+CMP0360,C0360,Tax seems incorrect.,NEGATIVE
+CMP0361,C0361,Thanks for resolving my last issue.,POSITIVE
+CMP0362,C0362,Tax seems incorrect.,NEGATIVE
+CMP0363,C0363,Tax seems incorrect.,NEGATIVE
+CMP0364,C0364,Everything looks fine.,POSITIVE
+CMP0365,C0365,Everything looks fine.,POSITIVE
+CMP0366,C0366,I was charged extra for roaming.,NEGATIVE
+CMP0367,C0367,Charges match my usage perfectly.,POSITIVE
+CMP0368,C0368,The bill is way higher than expected.,NEGATIVE
+CMP0369,C0369,Why was I billed for unused data?,NEGATIVE
+CMP0370,C0370,Everything looks fine.,POSITIVE
+CMP0371,C0371,Charges match my usage perfectly.,POSITIVE
+CMP0372,C0372,The bill is way higher than expected.,NEGATIVE
+CMP0373,C0373,Everything looks fine.,POSITIVE
+CMP0374,C0374,I was charged extra for roaming.,NEGATIVE
+CMP0375,C0375,Everything looks fine.,POSITIVE
+CMP0376,C0376,Everything looks fine.,POSITIVE
+CMP0377,C0377,My discount wasn’t applied.,NEGATIVE
+CMP0378,C0378,"Great service, no issues with billing.",POSITIVE
+CMP0379,C0379,The bill is way higher than expected.,NEGATIVE
+CMP0380,C0380,Why was I billed for unused data?,NEGATIVE
+CMP0381,C0381,Charges match my usage perfectly.,POSITIVE
+CMP0382,C0382,Everything looks fine.,POSITIVE
+CMP0383,C0383,My discount wasn’t applied.,NEGATIVE
+CMP0384,C0384,Charges match my usage perfectly.,POSITIVE
+CMP0385,C0385,Charges match my usage perfectly.,POSITIVE
+CMP0386,C0386,Tax seems incorrect.,NEGATIVE
+CMP0387,C0387,I was charged extra for roaming.,NEGATIVE
+CMP0388,C0388,The bill is way higher than expected.,NEGATIVE
+CMP0389,C0389,I was charged extra for roaming.,NEGATIVE
+CMP0390,C0390,I was charged extra for roaming.,NEGATIVE
+CMP0391,C0391,Why was I billed for unused data?,NEGATIVE
+CMP0392,C0392,Why was I billed for unused data?,NEGATIVE
+CMP0393,C0393,Tax seems incorrect.,NEGATIVE
+CMP0394,C0394,My discount wasn’t applied.,NEGATIVE
+CMP0395,C0395,The bill is way higher than expected.,NEGATIVE
+CMP0396,C0396,Why was I billed for unused data?,NEGATIVE
+CMP0397,C0397,Why was I billed for unused data?,NEGATIVE
+CMP0398,C0398,Tax seems incorrect.,NEGATIVE
+CMP0399,C0399,Why was I billed for unused data?,NEGATIVE
+CMP0400,C0400,Everything looks fine.,POSITIVE
+CMP0401,C0401,Everything looks fine.,POSITIVE
+CMP0402,C0402,Charges match my usage perfectly.,POSITIVE
+CMP0403,C0403,Tax seems incorrect.,NEGATIVE
+CMP0404,C0404,Everything looks fine.,POSITIVE
+CMP0405,C0405,Charges match my usage perfectly.,POSITIVE
+CMP0406,C0406,Thanks for resolving my last issue.,POSITIVE
+CMP0407,C0407,My discount wasn’t applied.,NEGATIVE
+CMP0408,C0408,I need help understanding my bill.,NEGATIVE
+CMP0409,C0409,Thanks for resolving my last issue.,POSITIVE
+CMP0410,C0410,My discount wasn’t applied.,NEGATIVE
+CMP0411,C0411,The bill is way higher than expected.,NEGATIVE
+CMP0412,C0412,"Great service, no issues with billing.",POSITIVE
+CMP0413,C0413,Why was I billed for unused data?,NEGATIVE
+CMP0414,C0414,The bill is way higher than expected.,NEGATIVE
+CMP0415,C0415,"Great service, no issues with billing.",POSITIVE
+CMP0416,C0416,The bill is way higher than expected.,NEGATIVE
+CMP0417,C0417,Tax seems incorrect.,NEGATIVE
+CMP0418,C0418,Everything looks fine.,POSITIVE
+CMP0419,C0419,Charges match my usage perfectly.,POSITIVE
+CMP0420,C0420,Everything looks fine.,POSITIVE
+CMP0421,C0421,I need help understanding my bill.,NEGATIVE
+CMP0422,C0422,Thanks for resolving my last issue.,POSITIVE
+CMP0423,C0423,"Great service, no issues with billing.",POSITIVE
+CMP0424,C0424,Tax seems incorrect.,NEGATIVE
+CMP0425,C0425,I need help understanding my bill.,NEGATIVE
+CMP0426,C0426,Charges match my usage perfectly.,POSITIVE
+CMP0427,C0427,My discount wasn’t applied.,NEGATIVE
+CMP0428,C0428,The bill is way higher than expected.,NEGATIVE
+CMP0429,C0429,Thanks for resolving my last issue.,POSITIVE
+CMP0430,C0430,Why was I billed for unused data?,NEGATIVE
+CMP0431,C0431,Why was I billed for unused data?,NEGATIVE
+CMP0432,C0432,Everything looks fine.,POSITIVE
+CMP0433,C0433,Everything looks fine.,POSITIVE
+CMP0434,C0434,The bill is way higher than expected.,NEGATIVE
+CMP0435,C0435,I was charged extra for roaming.,NEGATIVE
+CMP0436,C0436,The bill is way higher than expected.,NEGATIVE
+CMP0437,C0437,Tax seems incorrect.,NEGATIVE
+CMP0438,C0438,My discount wasn’t applied.,NEGATIVE
+CMP0439,C0439,I was charged extra for roaming.,NEGATIVE
+CMP0440,C0440,I was charged extra for roaming.,NEGATIVE
+CMP0441,C0441,Tax seems incorrect.,NEGATIVE
+CMP0442,C0442,I need help understanding my bill.,NEGATIVE
+CMP0443,C0443,I need help understanding my bill.,NEGATIVE
+CMP0444,C0444,Thanks for resolving my last issue.,POSITIVE
+CMP0445,C0445,Tax seems incorrect.,NEGATIVE
+CMP0446,C0446,Charges match my usage perfectly.,POSITIVE
+CMP0447,C0447,Why was I billed for unused data?,NEGATIVE
+CMP0448,C0448,"Great service, no issues with billing.",POSITIVE
+CMP0449,C0449,Tax seems incorrect.,NEGATIVE
+CMP0450,C0450,Everything looks fine.,POSITIVE
+CMP0451,C0451,"Great service, no issues with billing.",POSITIVE
+CMP0452,C0452,Tax seems incorrect.,NEGATIVE
+CMP0453,C0453,Charges match my usage perfectly.,POSITIVE
+CMP0454,C0454,The bill is way higher than expected.,NEGATIVE
+CMP0455,C0455,"Great service, no issues with billing.",POSITIVE
+CMP0456,C0456,I was charged extra for roaming.,NEGATIVE
+CMP0457,C0457,I was charged extra for roaming.,NEGATIVE
+CMP0458,C0458,I was charged extra for roaming.,NEGATIVE
+CMP0459,C0459,Why was I billed for unused data?,NEGATIVE
+CMP0460,C0460,The bill is way higher than expected.,NEGATIVE
+CMP0461,C0461,"Great service, no issues with billing.",POSITIVE
+CMP0462,C0462,I was charged extra for roaming.,NEGATIVE
+CMP0463,C0463,My discount wasn’t applied.,NEGATIVE
+CMP0464,C0464,Tax seems incorrect.,NEGATIVE
+CMP0465,C0465,My discount wasn’t applied.,NEGATIVE
+CMP0466,C0466,Tax seems incorrect.,NEGATIVE
+CMP0467,C0467,I was charged extra for roaming.,NEGATIVE
+CMP0468,C0468,My discount wasn’t applied.,NEGATIVE
+CMP0469,C0469,Everything looks fine.,POSITIVE
+CMP0470,C0470,Why was I billed for unused data?,NEGATIVE
+CMP0471,C0471,I was charged extra for roaming.,NEGATIVE
+CMP0472,C0472,I was charged extra for roaming.,NEGATIVE
+CMP0473,C0473,Charges match my usage perfectly.,POSITIVE
+CMP0474,C0474,The bill is way higher than expected.,NEGATIVE
+CMP0475,C0475,I need help understanding my bill.,NEGATIVE
+CMP0476,C0476,Charges match my usage perfectly.,POSITIVE
+CMP0477,C0477,I need help understanding my bill.,NEGATIVE
+CMP0478,C0478,Tax seems incorrect.,NEGATIVE
+CMP0479,C0479,Tax seems incorrect.,NEGATIVE
+CMP0480,C0480,"Great service, no issues with billing.",POSITIVE
+CMP0481,C0481,I need help understanding my bill.,NEGATIVE
+CMP0482,C0482,I need help understanding my bill.,NEGATIVE
+CMP0483,C0483,I need help understanding my bill.,NEGATIVE
+CMP0484,C0484,Tax seems incorrect.,NEGATIVE
+CMP0485,C0485,Everything looks fine.,POSITIVE
+CMP0486,C0486,"Great service, no issues with billing.",POSITIVE
+CMP0487,C0487,Thanks for resolving my last issue.,POSITIVE
+CMP0488,C0488,I was charged extra for roaming.,NEGATIVE
+CMP0489,C0489,"Great service, no issues with billing.",POSITIVE
+CMP0490,C0490,Everything looks fine.,POSITIVE
+CMP0491,C0491,Everything looks fine.,POSITIVE
+CMP0492,C0492,Everything looks fine.,POSITIVE
+CMP0493,C0493,Why was I billed for unused data?,NEGATIVE
+CMP0494,C0494,My discount wasn’t applied.,NEGATIVE
+CMP0495,C0495,Why was I billed for unused data?,NEGATIVE
+CMP0496,C0496,My discount wasn’t applied.,NEGATIVE
+CMP0497,C0497,Why was I billed for unused data?,NEGATIVE
+CMP0498,C0498,Tax seems incorrect.,NEGATIVE
+CMP0499,C0499,Thanks for resolving my last issue.,POSITIVE
+CMP0500,C0500,Tax seems incorrect.,NEGATIVE
+CMP0501,C0501,"Great service, no issues with billing.",POSITIVE
+CMP0502,C0502,"Great service, no issues with billing.",POSITIVE
+CMP0503,C0503,I need help understanding my bill.,NEGATIVE
+CMP0504,C0504,Everything looks fine.,POSITIVE
+CMP0505,C0505,Thanks for resolving my last issue.,POSITIVE
+CMP0506,C0506,Why was I billed for unused data?,NEGATIVE
+CMP0507,C0507,The bill is way higher than expected.,NEGATIVE
+CMP0508,C0508,Everything looks fine.,POSITIVE
+CMP0509,C0509,"Great service, no issues with billing.",POSITIVE
+CMP0510,C0510,My discount wasn’t applied.,NEGATIVE
+CMP0511,C0511,Tax seems incorrect.,NEGATIVE
+CMP0512,C0512,The bill is way higher than expected.,NEGATIVE
+CMP0513,C0513,Everything looks fine.,POSITIVE
+CMP0514,C0514,I need help understanding my bill.,NEGATIVE
+CMP0515,C0515,My discount wasn’t applied.,NEGATIVE
+CMP0516,C0516,The bill is way higher than expected.,NEGATIVE
+CMP0517,C0517,I need help understanding my bill.,NEGATIVE
+CMP0518,C0518,Charges match my usage perfectly.,POSITIVE
+CMP0519,C0519,Charges match my usage perfectly.,POSITIVE
+CMP0520,C0520,Tax seems incorrect.,NEGATIVE
+CMP0521,C0521,Charges match my usage perfectly.,POSITIVE
+CMP0522,C0522,The bill is way higher than expected.,NEGATIVE
+CMP0523,C0523,Why was I billed for unused data?,NEGATIVE
+CMP0524,C0524,I need help understanding my bill.,NEGATIVE
+CMP0525,C0525,"Great service, no issues with billing.",POSITIVE
+CMP0526,C0526,Everything looks fine.,POSITIVE
+CMP0527,C0527,Why was I billed for unused data?,NEGATIVE
+CMP0528,C0528,Why was I billed for unused data?,NEGATIVE
+CMP0529,C0529,Everything looks fine.,POSITIVE
+CMP0530,C0530,Thanks for resolving my last issue.,POSITIVE
+CMP0531,C0531,My discount wasn’t applied.,NEGATIVE
+CMP0532,C0532,My discount wasn’t applied.,NEGATIVE
+CMP0533,C0533,Thanks for resolving my last issue.,POSITIVE
+CMP0534,C0534,Charges match my usage perfectly.,POSITIVE
+CMP0535,C0535,My discount wasn’t applied.,NEGATIVE
+CMP0536,C0536,I need help understanding my bill.,NEGATIVE
+CMP0537,C0537,I need help understanding my bill.,NEGATIVE
+CMP0538,C0538,I was charged extra for roaming.,NEGATIVE
+CMP0539,C0539,I need help understanding my bill.,NEGATIVE
+CMP0540,C0540,Charges match my usage perfectly.,POSITIVE
+CMP0541,C0541,Thanks for resolving my last issue.,POSITIVE
+CMP0542,C0542,I need help understanding my bill.,NEGATIVE
+CMP0543,C0543,Thanks for resolving my last issue.,POSITIVE
+CMP0544,C0544,Everything looks fine.,POSITIVE
+CMP0545,C0545,I was charged extra for roaming.,NEGATIVE
+CMP0546,C0546,Charges match my usage perfectly.,POSITIVE
+CMP0547,C0547,I need help understanding my bill.,NEGATIVE
+CMP0548,C0548,My discount wasn’t applied.,NEGATIVE
+CMP0549,C0549,Everything looks fine.,POSITIVE
+CMP0550,C0550,"Great service, no issues with billing.",POSITIVE
+CMP0551,C0551,Charges match my usage perfectly.,POSITIVE
+CMP0552,C0552,Everything looks fine.,POSITIVE
+CMP0553,C0553,Tax seems incorrect.,NEGATIVE
+CMP0554,C0554,The bill is way higher than expected.,NEGATIVE
+CMP0555,C0555,Why was I billed for unused data?,NEGATIVE
+CMP0556,C0556,"Great service, no issues with billing.",POSITIVE
+CMP0557,C0557,I was charged extra for roaming.,NEGATIVE
+CMP0558,C0558,Tax seems incorrect.,NEGATIVE
+CMP0559,C0559,Everything looks fine.,POSITIVE
+CMP0560,C0560,Everything looks fine.,POSITIVE
+CMP0561,C0561,Charges match my usage perfectly.,POSITIVE
+CMP0562,C0562,Thanks for resolving my last issue.,POSITIVE
+CMP0563,C0563,The bill is way higher than expected.,NEGATIVE
+CMP0564,C0564,I was charged extra for roaming.,NEGATIVE
+CMP0565,C0565,I need help understanding my bill.,NEGATIVE
+CMP0566,C0566,I need help understanding my bill.,NEGATIVE
+CMP0567,C0567,Charges match my usage perfectly.,POSITIVE
+CMP0568,C0568,I need help understanding my bill.,NEGATIVE
+CMP0569,C0569,Tax seems incorrect.,NEGATIVE
+CMP0570,C0570,Why was I billed for unused data?,NEGATIVE
+CMP0571,C0571,Everything looks fine.,POSITIVE
+CMP0572,C0572,Tax seems incorrect.,NEGATIVE
+CMP0573,C0573,"Great service, no issues with billing.",POSITIVE
+CMP0574,C0574,I need help understanding my bill.,NEGATIVE
+CMP0575,C0575,My discount wasn’t applied.,NEGATIVE
+CMP0576,C0576,Thanks for resolving my last issue.,POSITIVE
+CMP0577,C0577,Everything looks fine.,POSITIVE
+CMP0578,C0578,I was charged extra for roaming.,NEGATIVE
+CMP0579,C0579,My discount wasn’t applied.,NEGATIVE
+CMP0580,C0580,"Great service, no issues with billing.",POSITIVE
+CMP0581,C0581,Why was I billed for unused data?,NEGATIVE
+CMP0582,C0582,My discount wasn’t applied.,NEGATIVE
+CMP0583,C0583,Thanks for resolving my last issue.,POSITIVE
+CMP0584,C0584,"Great service, no issues with billing.",POSITIVE
+CMP0585,C0585,Charges match my usage perfectly.,POSITIVE
+CMP0586,C0586,Everything looks fine.,POSITIVE
+CMP0587,C0587,I was charged extra for roaming.,NEGATIVE
+CMP0588,C0588,The bill is way higher than expected.,NEGATIVE
+CMP0589,C0589,Tax seems incorrect.,NEGATIVE
+CMP0590,C0590,My discount wasn’t applied.,NEGATIVE
+CMP0591,C0591,Thanks for resolving my last issue.,POSITIVE
+CMP0592,C0592,Tax seems incorrect.,NEGATIVE
+CMP0593,C0593,I was charged extra for roaming.,NEGATIVE
+CMP0594,C0594,Everything looks fine.,POSITIVE
+CMP0595,C0595,Charges match my usage perfectly.,POSITIVE
+CMP0596,C0596,Tax seems incorrect.,NEGATIVE
+CMP0597,C0597,Why was I billed for unused data?,NEGATIVE
+CMP0598,C0598,Everything looks fine.,POSITIVE
+CMP0599,C0599,Charges match my usage perfectly.,POSITIVE
+CMP0600,C0600,I need help understanding my bill.,NEGATIVE
+CMP0601,C0601,Everything looks fine.,POSITIVE
+CMP0602,C0602,"Great service, no issues with billing.",POSITIVE
+CMP0603,C0603,Thanks for resolving my last issue.,POSITIVE
+CMP0604,C0604,I need help understanding my bill.,NEGATIVE
+CMP0605,C0605,Thanks for resolving my last issue.,POSITIVE
+CMP0606,C0606,Charges match my usage perfectly.,POSITIVE
+CMP0607,C0607,I need help understanding my bill.,NEGATIVE
+CMP0608,C0608,Why was I billed for unused data?,NEGATIVE
+CMP0609,C0609,My discount wasn’t applied.,NEGATIVE
+CMP0610,C0610,My discount wasn’t applied.,NEGATIVE
+CMP0611,C0611,Everything looks fine.,POSITIVE
+CMP0612,C0612,My discount wasn’t applied.,NEGATIVE
+CMP0613,C0613,I need help understanding my bill.,NEGATIVE
+CMP0614,C0614,"Great service, no issues with billing.",POSITIVE
+CMP0615,C0615,I need help understanding my bill.,NEGATIVE
+CMP0616,C0616,I need help understanding my bill.,NEGATIVE
+CMP0617,C0617,I was charged extra for roaming.,NEGATIVE
+CMP0618,C0618,Why was I billed for unused data?,NEGATIVE
+CMP0619,C0619,"Great service, no issues with billing.",POSITIVE
+CMP0620,C0620,The bill is way higher than expected.,NEGATIVE
+CMP0621,C0621,I was charged extra for roaming.,NEGATIVE
+CMP0622,C0622,Why was I billed for unused data?,NEGATIVE
+CMP0623,C0623,Charges match my usage perfectly.,POSITIVE
+CMP0624,C0624,The bill is way higher than expected.,NEGATIVE
+CMP0625,C0625,My discount wasn’t applied.,NEGATIVE
+CMP0626,C0626,Tax seems incorrect.,NEGATIVE
+CMP0627,C0627,The bill is way higher than expected.,NEGATIVE
+CMP0628,C0628,I was charged extra for roaming.,NEGATIVE
+CMP0629,C0629,Charges match my usage perfectly.,POSITIVE
+CMP0630,C0630,My discount wasn’t applied.,NEGATIVE
+CMP0631,C0631,My discount wasn’t applied.,NEGATIVE
+CMP0632,C0632,The bill is way higher than expected.,NEGATIVE
+CMP0633,C0633,I need help understanding my bill.,NEGATIVE
+CMP0634,C0634,Thanks for resolving my last issue.,POSITIVE
+CMP0635,C0635,Charges match my usage perfectly.,POSITIVE
+CMP0636,C0636,Tax seems incorrect.,NEGATIVE
+CMP0637,C0637,Thanks for resolving my last issue.,POSITIVE
+CMP0638,C0638,The bill is way higher than expected.,NEGATIVE
+CMP0639,C0639,Tax seems incorrect.,NEGATIVE
+CMP0640,C0640,Tax seems incorrect.,NEGATIVE
+CMP0641,C0641,"Great service, no issues with billing.",POSITIVE
+CMP0642,C0642,I need help understanding my bill.,NEGATIVE
+CMP0643,C0643,Thanks for resolving my last issue.,POSITIVE
+CMP0644,C0644,The bill is way higher than expected.,NEGATIVE
+CMP0645,C0645,Everything looks fine.,POSITIVE
+CMP0646,C0646,The bill is way higher than expected.,NEGATIVE
+CMP0647,C0647,Everything looks fine.,POSITIVE
+CMP0648,C0648,The bill is way higher than expected.,NEGATIVE
+CMP0649,C0649,I was charged extra for roaming.,NEGATIVE
+CMP0650,C0650,Why was I billed for unused data?,NEGATIVE
+CMP0651,C0651,My discount wasn’t applied.,NEGATIVE
+CMP0652,C0652,I was charged extra for roaming.,NEGATIVE
+CMP0653,C0653,I need help understanding my bill.,NEGATIVE
+CMP0654,C0654,Why was I billed for unused data?,NEGATIVE
+CMP0655,C0655,I need help understanding my bill.,NEGATIVE
+CMP0656,C0656,I need help understanding my bill.,NEGATIVE
+CMP0657,C0657,I was charged extra for roaming.,NEGATIVE
+CMP0658,C0658,I need help understanding my bill.,NEGATIVE
+CMP0659,C0659,Charges match my usage perfectly.,POSITIVE
+CMP0660,C0660,Tax seems incorrect.,NEGATIVE
+CMP0661,C0661,Everything looks fine.,POSITIVE
+CMP0662,C0662,The bill is way higher than expected.,NEGATIVE
+CMP0663,C0663,The bill is way higher than expected.,NEGATIVE
+CMP0664,C0664,Tax seems incorrect.,NEGATIVE
+CMP0665,C0665,Everything looks fine.,POSITIVE
+CMP0666,C0666,I was charged extra for roaming.,NEGATIVE
+CMP0667,C0667,Charges match my usage perfectly.,POSITIVE
+CMP0668,C0668,My discount wasn’t applied.,NEGATIVE
+CMP0669,C0669,The bill is way higher than expected.,NEGATIVE
+CMP0670,C0670,Everything looks fine.,POSITIVE
+CMP0671,C0671,Why was I billed for unused data?,NEGATIVE
+CMP0672,C0672,Everything looks fine.,POSITIVE
+CMP0673,C0673,Everything looks fine.,POSITIVE
+CMP0674,C0674,Charges match my usage perfectly.,POSITIVE
+CMP0675,C0675,I was charged extra for roaming.,NEGATIVE
+CMP0676,C0676,My discount wasn’t applied.,NEGATIVE
+CMP0677,C0677,Tax seems incorrect.,NEGATIVE
+CMP0678,C0678,I was charged extra for roaming.,NEGATIVE
+CMP0679,C0679,Thanks for resolving my last issue.,POSITIVE
+CMP0680,C0680,Why was I billed for unused data?,NEGATIVE
+CMP0681,C0681,"Great service, no issues with billing.",POSITIVE
+CMP0682,C0682,I need help understanding my bill.,NEGATIVE
+CMP0683,C0683,Why was I billed for unused data?,NEGATIVE
+CMP0684,C0684,Tax seems incorrect.,NEGATIVE
+CMP0685,C0685,I need help understanding my bill.,NEGATIVE
+CMP0686,C0686,"Great service, no issues with billing.",POSITIVE
+CMP0687,C0687,"Great service, no issues with billing.",POSITIVE
+CMP0688,C0688,Why was I billed for unused data?,NEGATIVE
+CMP0689,C0689,"Great service, no issues with billing.",POSITIVE
+CMP0690,C0690,Everything looks fine.,POSITIVE
+CMP0691,C0691,The bill is way higher than expected.,NEGATIVE
+CMP0692,C0692,"Great service, no issues with billing.",POSITIVE
+CMP0693,C0693,Why was I billed for unused data?,NEGATIVE
+CMP0694,C0694,Everything looks fine.,POSITIVE
+CMP0695,C0695,Everything looks fine.,POSITIVE
+CMP0696,C0696,My discount wasn’t applied.,NEGATIVE
+CMP0697,C0697,Tax seems incorrect.,NEGATIVE
+CMP0698,C0698,"Great service, no issues with billing.",POSITIVE
+CMP0699,C0699,I need help understanding my bill.,NEGATIVE
+CMP0700,C0700,"Great service, no issues with billing.",POSITIVE
+CMP0701,C0701,I need help understanding my bill.,NEGATIVE
+CMP0702,C0702,I was charged extra for roaming.,NEGATIVE
+CMP0703,C0703,Charges match my usage perfectly.,POSITIVE
+CMP0704,C0704,Everything looks fine.,POSITIVE
+CMP0705,C0705,Why was I billed for unused data?,NEGATIVE
+CMP0706,C0706,My discount wasn’t applied.,NEGATIVE
+CMP0707,C0707,"Great service, no issues with billing.",POSITIVE
+CMP0708,C0708,"Great service, no issues with billing.",POSITIVE
+CMP0709,C0709,The bill is way higher than expected.,NEGATIVE
+CMP0710,C0710,Tax seems incorrect.,NEGATIVE
+CMP0711,C0711,Charges match my usage perfectly.,POSITIVE
+CMP0712,C0712,Tax seems incorrect.,NEGATIVE
+CMP0713,C0713,Why was I billed for unused data?,NEGATIVE
+CMP0714,C0714,Charges match my usage perfectly.,POSITIVE
+CMP0715,C0715,Tax seems incorrect.,NEGATIVE
+CMP0716,C0716,My discount wasn’t applied.,NEGATIVE
+CMP0717,C0717,Everything looks fine.,POSITIVE
+CMP0718,C0718,"Great service, no issues with billing.",POSITIVE
+CMP0719,C0719,"Great service, no issues with billing.",POSITIVE
+CMP0720,C0720,I need help understanding my bill.,NEGATIVE
+CMP0721,C0721,My discount wasn’t applied.,NEGATIVE
+CMP0722,C0722,My discount wasn’t applied.,NEGATIVE
+CMP0723,C0723,Why was I billed for unused data?,NEGATIVE
+CMP0724,C0724,Thanks for resolving my last issue.,POSITIVE
+CMP0725,C0725,Tax seems incorrect.,NEGATIVE
+CMP0726,C0726,"Great service, no issues with billing.",POSITIVE
+CMP0727,C0727,Thanks for resolving my last issue.,POSITIVE
+CMP0728,C0728,"Great service, no issues with billing.",POSITIVE
+CMP0729,C0729,I was charged extra for roaming.,NEGATIVE
+CMP0730,C0730,The bill is way higher than expected.,NEGATIVE
+CMP0731,C0731,The bill is way higher than expected.,NEGATIVE
+CMP0732,C0732,"Great service, no issues with billing.",POSITIVE
+CMP0733,C0733,Everything looks fine.,POSITIVE
+CMP0734,C0734,I need help understanding my bill.,NEGATIVE
+CMP0735,C0735,I need help understanding my bill.,NEGATIVE
+CMP0736,C0736,Tax seems incorrect.,NEGATIVE
+CMP0737,C0737,Charges match my usage perfectly.,POSITIVE
+CMP0738,C0738,Why was I billed for unused data?,NEGATIVE
+CMP0739,C0739,My discount wasn’t applied.,NEGATIVE
+CMP0740,C0740,"Great service, no issues with billing.",POSITIVE
+CMP0741,C0741,The bill is way higher than expected.,NEGATIVE
+CMP0742,C0742,Why was I billed for unused data?,NEGATIVE
+CMP0743,C0743,"Great service, no issues with billing.",POSITIVE
+CMP0744,C0744,I need help understanding my bill.,NEGATIVE
+CMP0745,C0745,Everything looks fine.,POSITIVE
+CMP0746,C0746,Thanks for resolving my last issue.,POSITIVE
+CMP0747,C0747,The bill is way higher than expected.,NEGATIVE
+CMP0748,C0748,Everything looks fine.,POSITIVE
+CMP0749,C0749,"Great service, no issues with billing.",POSITIVE
+CMP0750,C0750,Everything looks fine.,POSITIVE
+CMP0751,C0751,I need help understanding my bill.,NEGATIVE
+CMP0752,C0752,The bill is way higher than expected.,NEGATIVE
+CMP0753,C0753,"Great service, no issues with billing.",POSITIVE
+CMP0754,C0754,"Great service, no issues with billing.",POSITIVE
+CMP0755,C0755,Tax seems incorrect.,NEGATIVE
+CMP0756,C0756,My discount wasn’t applied.,NEGATIVE
+CMP0757,C0757,I was charged extra for roaming.,NEGATIVE
+CMP0758,C0758,Tax seems incorrect.,NEGATIVE
+CMP0759,C0759,My discount wasn’t applied.,NEGATIVE
+CMP0760,C0760,I was charged extra for roaming.,NEGATIVE
+CMP0761,C0761,Why was I billed for unused data?,NEGATIVE
+CMP0762,C0762,Thanks for resolving my last issue.,POSITIVE
+CMP0763,C0763,Everything looks fine.,POSITIVE
+CMP0764,C0764,Charges match my usage perfectly.,POSITIVE
+CMP0765,C0765,I was charged extra for roaming.,NEGATIVE
+CMP0766,C0766,Tax seems incorrect.,NEGATIVE
+CMP0767,C0767,Charges match my usage perfectly.,POSITIVE
+CMP0768,C0768,Charges match my usage perfectly.,POSITIVE
+CMP0769,C0769,Why was I billed for unused data?,NEGATIVE
+CMP0770,C0770,I was charged extra for roaming.,NEGATIVE
+CMP0771,C0771,Tax seems incorrect.,NEGATIVE
+CMP0772,C0772,My discount wasn’t applied.,NEGATIVE
+CMP0773,C0773,"Great service, no issues with billing.",POSITIVE
+CMP0774,C0774,Everything looks fine.,POSITIVE
+CMP0775,C0775,Charges match my usage perfectly.,POSITIVE
+CMP0776,C0776,"Great service, no issues with billing.",POSITIVE
+CMP0777,C0777,My discount wasn’t applied.,NEGATIVE
+CMP0778,C0778,Charges match my usage perfectly.,POSITIVE
+CMP0779,C0779,The bill is way higher than expected.,NEGATIVE
+CMP0780,C0780,Tax seems incorrect.,NEGATIVE
+CMP0781,C0781,Everything looks fine.,POSITIVE
+CMP0782,C0782,Tax seems incorrect.,NEGATIVE
+CMP0783,C0783,The bill is way higher than expected.,NEGATIVE
+CMP0784,C0784,Charges match my usage perfectly.,POSITIVE
+CMP0785,C0785,The bill is way higher than expected.,NEGATIVE
+CMP0786,C0786,Thanks for resolving my last issue.,POSITIVE
+CMP0787,C0787,"Great service, no issues with billing.",POSITIVE
+CMP0788,C0788,The bill is way higher than expected.,NEGATIVE
+CMP0789,C0789,Everything looks fine.,POSITIVE
+CMP0790,C0790,Charges match my usage perfectly.,POSITIVE
+CMP0791,C0791,Thanks for resolving my last issue.,POSITIVE
+CMP0792,C0792,The bill is way higher than expected.,NEGATIVE
+CMP0793,C0793,My discount wasn’t applied.,NEGATIVE
+CMP0794,C0794,The bill is way higher than expected.,NEGATIVE
+CMP0795,C0795,Tax seems incorrect.,NEGATIVE
+CMP0796,C0796,Everything looks fine.,POSITIVE
+CMP0797,C0797,Thanks for resolving my last issue.,POSITIVE
+CMP0798,C0798,Charges match my usage perfectly.,POSITIVE
+CMP0799,C0799,I need help understanding my bill.,NEGATIVE
+CMP0800,C0800,My discount wasn’t applied.,NEGATIVE
+CMP0801,C0801,My discount wasn’t applied.,NEGATIVE
+CMP0802,C0802,My discount wasn’t applied.,NEGATIVE
+CMP0803,C0803,Charges match my usage perfectly.,POSITIVE
+CMP0804,C0804,Why was I billed for unused data?,NEGATIVE
+CMP0805,C0805,I was charged extra for roaming.,NEGATIVE
+CMP0806,C0806,Why was I billed for unused data?,NEGATIVE
+CMP0807,C0807,I need help understanding my bill.,NEGATIVE
+CMP0808,C0808,Tax seems incorrect.,NEGATIVE
+CMP0809,C0809,Why was I billed for unused data?,NEGATIVE
+CMP0810,C0810,I need help understanding my bill.,NEGATIVE
+CMP0811,C0811,"Great service, no issues with billing.",POSITIVE
+CMP0812,C0812,Everything looks fine.,POSITIVE
+CMP0813,C0813,I need help understanding my bill.,NEGATIVE
+CMP0814,C0814,My discount wasn’t applied.,NEGATIVE
+CMP0815,C0815,"Great service, no issues with billing.",POSITIVE
+CMP0816,C0816,The bill is way higher than expected.,NEGATIVE
+CMP0817,C0817,Everything looks fine.,POSITIVE
+CMP0818,C0818,I need help understanding my bill.,NEGATIVE
+CMP0819,C0819,I was charged extra for roaming.,NEGATIVE
+CMP0820,C0820,I need help understanding my bill.,NEGATIVE
+CMP0821,C0821,"Great service, no issues with billing.",POSITIVE
+CMP0822,C0822,I was charged extra for roaming.,NEGATIVE
+CMP0823,C0823,Charges match my usage perfectly.,POSITIVE
+CMP0824,C0824,Thanks for resolving my last issue.,POSITIVE
+CMP0825,C0825,My discount wasn’t applied.,NEGATIVE
+CMP0826,C0826,Why was I billed for unused data?,NEGATIVE
+CMP0827,C0827,Thanks for resolving my last issue.,POSITIVE
+CMP0828,C0828,I need help understanding my bill.,NEGATIVE
+CMP0829,C0829,Everything looks fine.,POSITIVE
+CMP0830,C0830,Thanks for resolving my last issue.,POSITIVE
+CMP0831,C0831,Tax seems incorrect.,NEGATIVE
+CMP0832,C0832,Everything looks fine.,POSITIVE
+CMP0833,C0833,Why was I billed for unused data?,NEGATIVE
+CMP0834,C0834,My discount wasn’t applied.,NEGATIVE
+CMP0835,C0835,The bill is way higher than expected.,NEGATIVE
+CMP0836,C0836,I need help understanding my bill.,NEGATIVE
+CMP0837,C0837,My discount wasn’t applied.,NEGATIVE
+CMP0838,C0838,The bill is way higher than expected.,NEGATIVE
+CMP0839,C0839,I need help understanding my bill.,NEGATIVE
+CMP0840,C0840,Charges match my usage perfectly.,POSITIVE
+CMP0841,C0841,I need help understanding my bill.,NEGATIVE
+CMP0842,C0842,Why was I billed for unused data?,NEGATIVE
+CMP0843,C0843,"Great service, no issues with billing.",POSITIVE
+CMP0844,C0844,Thanks for resolving my last issue.,POSITIVE
+CMP0845,C0845,The bill is way higher than expected.,NEGATIVE
+CMP0846,C0846,Thanks for resolving my last issue.,POSITIVE
+CMP0847,C0847,Tax seems incorrect.,NEGATIVE
+CMP0848,C0848,Why was I billed for unused data?,NEGATIVE
+CMP0849,C0849,Everything looks fine.,POSITIVE
+CMP0850,C0850,Thanks for resolving my last issue.,POSITIVE
+CMP0851,C0851,"Great service, no issues with billing.",POSITIVE
+CMP0852,C0852,Why was I billed for unused data?,NEGATIVE
+CMP0853,C0853,My discount wasn’t applied.,NEGATIVE
+CMP0854,C0854,Everything looks fine.,POSITIVE
+CMP0855,C0855,Tax seems incorrect.,NEGATIVE
+CMP0856,C0856,The bill is way higher than expected.,NEGATIVE
+CMP0857,C0857,I need help understanding my bill.,NEGATIVE
+CMP0858,C0858,Tax seems incorrect.,NEGATIVE
+CMP0859,C0859,Everything looks fine.,POSITIVE
+CMP0860,C0860,Charges match my usage perfectly.,POSITIVE
+CMP0861,C0861,My discount wasn’t applied.,NEGATIVE
+CMP0862,C0862,Everything looks fine.,POSITIVE
+CMP0863,C0863,The bill is way higher than expected.,NEGATIVE
+CMP0864,C0864,Why was I billed for unused data?,NEGATIVE
+CMP0865,C0865,I need help understanding my bill.,NEGATIVE
+CMP0866,C0866,I need help understanding my bill.,NEGATIVE
+CMP0867,C0867,"Great service, no issues with billing.",POSITIVE
+CMP0868,C0868,My discount wasn’t applied.,NEGATIVE
+CMP0869,C0869,Why was I billed for unused data?,NEGATIVE
+CMP0870,C0870,Everything looks fine.,POSITIVE
+CMP0871,C0871,Tax seems incorrect.,NEGATIVE
+CMP0872,C0872,I was charged extra for roaming.,NEGATIVE
+CMP0873,C0873,I was charged extra for roaming.,NEGATIVE
+CMP0874,C0874,The bill is way higher than expected.,NEGATIVE
+CMP0875,C0875,Charges match my usage perfectly.,POSITIVE
+CMP0876,C0876,I need help understanding my bill.,NEGATIVE
+CMP0877,C0877,Charges match my usage perfectly.,POSITIVE
+CMP0878,C0878,Charges match my usage perfectly.,POSITIVE
+CMP0879,C0879,Why was I billed for unused data?,NEGATIVE
+CMP0880,C0880,I was charged extra for roaming.,NEGATIVE
+CMP0881,C0881,The bill is way higher than expected.,NEGATIVE
+CMP0882,C0882,Everything looks fine.,POSITIVE
+CMP0883,C0883,I need help understanding my bill.,NEGATIVE
+CMP0884,C0884,Why was I billed for unused data?,NEGATIVE
+CMP0885,C0885,The bill is way higher than expected.,NEGATIVE
+CMP0886,C0886,I was charged extra for roaming.,NEGATIVE
+CMP0887,C0887,Everything looks fine.,POSITIVE
+CMP0888,C0888,My discount wasn’t applied.,NEGATIVE
+CMP0889,C0889,Why was I billed for unused data?,NEGATIVE
+CMP0890,C0890,"Great service, no issues with billing.",POSITIVE
+CMP0891,C0891,Why was I billed for unused data?,NEGATIVE
+CMP0892,C0892,My discount wasn’t applied.,NEGATIVE
+CMP0893,C0893,Everything looks fine.,POSITIVE
+CMP0894,C0894,Why was I billed for unused data?,NEGATIVE
+CMP0895,C0895,"Great service, no issues with billing.",POSITIVE
+CMP0896,C0896,I was charged extra for roaming.,NEGATIVE
+CMP0897,C0897,Why was I billed for unused data?,NEGATIVE
+CMP0898,C0898,I was charged extra for roaming.,NEGATIVE
+CMP0899,C0899,The bill is way higher than expected.,NEGATIVE
+CMP0900,C0900,Charges match my usage perfectly.,POSITIVE
+CMP0901,C0901,Why was I billed for unused data?,NEGATIVE
+CMP0902,C0902,Charges match my usage perfectly.,POSITIVE
+CMP0903,C0903,Charges match my usage perfectly.,POSITIVE
+CMP0904,C0904,The bill is way higher than expected.,NEGATIVE
+CMP0905,C0905,Charges match my usage perfectly.,POSITIVE
+CMP0906,C0906,Tax seems incorrect.,NEGATIVE
+CMP0907,C0907,Charges match my usage perfectly.,POSITIVE
+CMP0908,C0908,My discount wasn’t applied.,NEGATIVE
+CMP0909,C0909,I need help understanding my bill.,NEGATIVE
+CMP0910,C0910,I need help understanding my bill.,NEGATIVE
+CMP0911,C0911,Charges match my usage perfectly.,POSITIVE
+CMP0912,C0912,I need help understanding my bill.,NEGATIVE
+CMP0913,C0913,The bill is way higher than expected.,NEGATIVE
+CMP0914,C0914,I was charged extra for roaming.,NEGATIVE
+CMP0915,C0915,Thanks for resolving my last issue.,POSITIVE
+CMP0916,C0916,The bill is way higher than expected.,NEGATIVE
+CMP0917,C0917,I need help understanding my bill.,NEGATIVE
+CMP0918,C0918,Why was I billed for unused data?,NEGATIVE
+CMP0919,C0919,Everything looks fine.,POSITIVE
+CMP0920,C0920,The bill is way higher than expected.,NEGATIVE
+CMP0921,C0921,I need help understanding my bill.,NEGATIVE
+CMP0922,C0922,My discount wasn’t applied.,NEGATIVE
+CMP0923,C0923,Everything looks fine.,POSITIVE
+CMP0924,C0924,"Great service, no issues with billing.",POSITIVE
+CMP0925,C0925,The bill is way higher than expected.,NEGATIVE
+CMP0926,C0926,I need help understanding my bill.,NEGATIVE
+CMP0927,C0927,Thanks for resolving my last issue.,POSITIVE
+CMP0928,C0928,I need help understanding my bill.,NEGATIVE
+CMP0929,C0929,My discount wasn’t applied.,NEGATIVE
+CMP0930,C0930,Tax seems incorrect.,NEGATIVE
+CMP0931,C0931,"Great service, no issues with billing.",POSITIVE
+CMP0932,C0932,I was charged extra for roaming.,NEGATIVE
+CMP0933,C0933,My discount wasn’t applied.,NEGATIVE
+CMP0934,C0934,Charges match my usage perfectly.,POSITIVE
+CMP0935,C0935,The bill is way higher than expected.,NEGATIVE
+CMP0936,C0936,"Great service, no issues with billing.",POSITIVE
+CMP0937,C0937,I was charged extra for roaming.,NEGATIVE
+CMP0938,C0938,My discount wasn’t applied.,NEGATIVE
+CMP0939,C0939,Thanks for resolving my last issue.,POSITIVE
+CMP0940,C0940,Tax seems incorrect.,NEGATIVE
+CMP0941,C0941,Thanks for resolving my last issue.,POSITIVE
+CMP0942,C0942,My discount wasn’t applied.,NEGATIVE
+CMP0943,C0943,I was charged extra for roaming.,NEGATIVE
+CMP0944,C0944,Thanks for resolving my last issue.,POSITIVE
+CMP0945,C0945,I was charged extra for roaming.,NEGATIVE
+CMP0946,C0946,The bill is way higher than expected.,NEGATIVE
+CMP0947,C0947,Tax seems incorrect.,NEGATIVE
+CMP0948,C0948,My discount wasn’t applied.,NEGATIVE
+CMP0949,C0949,I was charged extra for roaming.,NEGATIVE
+CMP0950,C0950,Everything looks fine.,POSITIVE
+CMP0951,C0951,Thanks for resolving my last issue.,POSITIVE
+CMP0952,C0952,My discount wasn’t applied.,NEGATIVE
+CMP0953,C0953,Tax seems incorrect.,NEGATIVE
+CMP0954,C0954,Tax seems incorrect.,NEGATIVE
+CMP0955,C0955,I was charged extra for roaming.,NEGATIVE
+CMP0956,C0956,Everything looks fine.,POSITIVE
+CMP0957,C0957,Why was I billed for unused data?,NEGATIVE
+CMP0958,C0958,I was charged extra for roaming.,NEGATIVE
+CMP0959,C0959,The bill is way higher than expected.,NEGATIVE
+CMP0960,C0960,Why was I billed for unused data?,NEGATIVE
+CMP0961,C0961,I was charged extra for roaming.,NEGATIVE
+CMP0962,C0962,Thanks for resolving my last issue.,POSITIVE
+CMP0963,C0963,Thanks for resolving my last issue.,POSITIVE
+CMP0964,C0964,Charges match my usage perfectly.,POSITIVE
+CMP0965,C0965,"Great service, no issues with billing.",POSITIVE
+CMP0966,C0966,"Great service, no issues with billing.",POSITIVE
+CMP0967,C0967,I need help understanding my bill.,NEGATIVE
+CMP0968,C0968,I was charged extra for roaming.,NEGATIVE
+CMP0969,C0969,Charges match my usage perfectly.,POSITIVE
+CMP0970,C0970,The bill is way higher than expected.,NEGATIVE
+CMP0971,C0971,I was charged extra for roaming.,NEGATIVE
+CMP0972,C0972,My discount wasn’t applied.,NEGATIVE
+CMP0973,C0973,Why was I billed for unused data?,NEGATIVE
+CMP0974,C0974,I was charged extra for roaming.,NEGATIVE
+CMP0975,C0975,I was charged extra for roaming.,NEGATIVE
+CMP0976,C0976,I need help understanding my bill.,NEGATIVE
+CMP0977,C0977,I was charged extra for roaming.,NEGATIVE
+CMP0978,C0978,"Great service, no issues with billing.",POSITIVE
+CMP0979,C0979,Thanks for resolving my last issue.,POSITIVE
+CMP0980,C0980,I need help understanding my bill.,NEGATIVE
+CMP0981,C0981,Tax seems incorrect.,NEGATIVE
+CMP0982,C0982,Everything looks fine.,POSITIVE
+CMP0983,C0983,Tax seems incorrect.,NEGATIVE
+CMP0984,C0984,Everything looks fine.,POSITIVE
+CMP0985,C0985,Why was I billed for unused data?,NEGATIVE
+CMP0986,C0986,Tax seems incorrect.,NEGATIVE
+CMP0987,C0987,"Great service, no issues with billing.",POSITIVE
+CMP0988,C0988,"Great service, no issues with billing.",POSITIVE
+CMP0989,C0989,I need help understanding my bill.,NEGATIVE
+CMP0990,C0990,Charges match my usage perfectly.,POSITIVE
+CMP0991,C0991,I was charged extra for roaming.,NEGATIVE
+CMP0992,C0992,My discount wasn’t applied.,NEGATIVE
+CMP0993,C0993,"Great service, no issues with billing.",POSITIVE
+CMP0994,C0994,Charges match my usage perfectly.,POSITIVE
+CMP0995,C0995,My discount wasn’t applied.,NEGATIVE
+CMP0996,C0996,I need help understanding my bill.,NEGATIVE
+CMP0997,C0997,Thanks for resolving my last issue.,POSITIVE
+CMP0998,C0998,Thanks for resolving my last issue.,POSITIVE
+CMP0999,C0999,Thanks for resolving my last issue.,POSITIVE
+CMP1000,C1000,Charges match my usage perfectly.,POSITIVE
