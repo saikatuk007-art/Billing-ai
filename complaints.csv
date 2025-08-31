@@ -1,0 +1,6 @@
+Complaint_ID,Customer_ID,Complaint_Text
+CMP001,C002,I was charged extra for roaming.
+CMP002,C005,My discount wasn’t applied.
+CMP003,C007,The bill is way higher than expected.
+CMP004,C003,Tax seems incorrect.
+CMP005,C001,Everything looks fine.

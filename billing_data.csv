@@ -1,0 +1,8 @@
+Customer_ID,Plan_Type,Usage_GB,Charges_USD,Discount_USD,Tax_USD,Final_Bill
+C001,Premium,50,100,10,9,99
+C002,Basic,5,20,0,1.8,21.8
+C003,Standard,15,45,5,3.6,43.6
+C004,Premium,55,110,10,9.9,109.9
+C005,Basic,6,22,0,1.98,23.98
+C006,Standard,14,42,5,3.36,40.36
+C007,Premium,50,200,10,18,208
